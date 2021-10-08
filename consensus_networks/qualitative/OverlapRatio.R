@@ -1,3 +1,5 @@
+### date modified: 03/02/2015
+
 setwd("~/Dropbox/Phd/R/Consensus/Qualitative/Syntren/N100/10")
  
 exp.path<-("~/Dropbox/Phd/R/Consensus/Simulated/syntren/N100/samples/10/Noise1/nn100_nbgr0_hop0.3_bionoise0.1_expnoise0.1_corrnoise0.1_neighAdd_dataset.txt")

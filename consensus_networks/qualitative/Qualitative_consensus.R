@@ -1,3 +1,5 @@
+### date modified: 03/02/2015
+
 setwd("~/Dropbox/Phd/R/Consensus/Qualitative/Syntren/N100/10")
 
 # R CMD BATCH --no-save --no-verbose size500_syntren_INV2.R outputFileINV2.txt

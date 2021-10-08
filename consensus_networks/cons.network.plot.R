@@ -1,3 +1,5 @@
+### date modified: 03/02/2015
+
 #############
 cons.network.plot<-function(edges,gs.tp,size,samples)
 {
